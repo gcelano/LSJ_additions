@@ -10,4 +10,6 @@ The LSJ used for addition is here:
 
 https://github.com/gcelano/LSJ_GreekUnicode
 
+These data are under license CC BY-NC-SA 
+
 
